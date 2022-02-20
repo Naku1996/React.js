@@ -1,3 +1,3 @@
 # React.js
 start a tutorials with react.js
-jk
+create a first React app
